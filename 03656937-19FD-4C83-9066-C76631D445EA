@@ -1,1 +1,1 @@
-{"active":true,"deny.user.ids":[],"deny.quarkus.versions":[],"refresh.interval":43200.000000000}
+{"active":true,"deny_user_ids":[],"deny_quarkus_versions":[],"refresh_interval":43200.000000000}
